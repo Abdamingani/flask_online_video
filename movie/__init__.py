@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'Alan'
+__author__ = 'Flask'
 
 from flask import Flask, render_template
 import os
